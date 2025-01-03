@@ -40,8 +40,8 @@
 
 
 
-### Name:Sujith A
-### Register Number:24900130
+### Name:HARIHARAN.S
+### Register Number:24005920
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
